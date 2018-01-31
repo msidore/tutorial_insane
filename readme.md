@@ -15,8 +15,5 @@ You will need:
 * VMD, to visualize the structures ! http://www.ks.uiuc.edu/Research/vmd/
 * If you want to further do simulations/minimization, GROMACS http://www.gromacs.org/
 
-Simulation parameters are taken from:
-* D.H. de Jong, S. Baoukina, H.I. Ingólfsson, Marrink S.J. Martini straight: boosting performance using a shorter cutoff and GPUs. Comput. Phys. Commun., 199:1-7, 2016. doi:10.1016/j.cpc.2015.09.014
-
 Insane is published here:
 * T.A. Wassenaar, H.I. Ingólfsson, R.A. Böckmann, D.P. Tieleman, S.J. Marrink. Computational lipidomics with insane: a versatile tool for generating custom membranes for molecular simulations. JCTC, 11:2144–2155, doi:2015.10.1021/acs.jctc.5b00209
