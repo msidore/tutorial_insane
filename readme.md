@@ -14,6 +14,7 @@ You will need:
 * A .pdb of your membrane protein (provided)
 * VMD, to visualize the structures ! http://www.ks.uiuc.edu/Research/vmd/
 * If you want to further do simulations/minimization, GROMACS http://www.gromacs.org/
+* Jupyter Notebook, if you hope to open the tutorial, http://jupyter.org/install.html
 
 Insane is published here:
 * T.A. Wassenaar, H.I. Ingólfsson, R.A. Böckmann, D.P. Tieleman, S.J. Marrink. Computational lipidomics with insane: a versatile tool for generating custom membranes for molecular simulations. JCTC, 11:2144–2155, doi:2015.10.1021/acs.jctc.5b00209
